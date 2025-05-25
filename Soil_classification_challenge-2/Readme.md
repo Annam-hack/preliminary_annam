@@ -14,9 +14,10 @@ This project tackles the unique challenge of soil type classification when only 
 ├── docs/
 │   └── arch.png     # Diagram of the model architecture
 │   └── cards/
-│       └── ml-metrics.json  # Evaluation metrics
+│       └── ml-metrics.json  # Evaluation metrics for the final submission 
 ├── notebooks/
-│   └── soil-classification-task2.ipynb              # Unified notebook for training and inference
+│   └── PU_Learning_Ensemble.ipynb             # As we explored unsupervised learning for this problem as well
+│   └── EfficientNet_Binary_Classification.ipynb #The model we chose for our final Submission and what gave us the higher accuracy metrics
 ├── src/
 ├── requirements.txt         # Dependencies
 └── README.md                # This file
