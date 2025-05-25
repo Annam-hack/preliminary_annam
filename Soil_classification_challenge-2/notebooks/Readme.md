@@ -45,8 +45,8 @@ The EfficientNet model was trained directly on labeled positive and negative sam
 
 | Method                                | Type            | F1 Score | Notes                                     |
 | ------------------------------------- | --------------- | -------- | ----------------------------------------- |
-| PU Learning (Deep SVDD + AE + MPCore) | Unsupervised/PU | 0.29   | No true negatives needed                  |
-| EfficientNet Binary Classifier        | Supervised      | 0.99     | Requires labeled negatives (CIFAR, MNIST) |
+| ❌PU Learning (Deep SVDD + AE + MPCore) | Unsupervised/PU | 0.29   | No true negatives needed                  |
+| ✅EfficientNet Binary Classifier(Final Selected model)        | Supervised      | 0.99     | Requires labeled negatives (CIFAR, MNIST) |
 
 ---
 
