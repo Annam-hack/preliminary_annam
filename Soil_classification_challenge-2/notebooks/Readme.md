@@ -76,5 +76,3 @@ pip install -r requirements.txt
 * Open-source implementations of Deep SVDD and Autoencoder frameworks.
 
 ---
-
-Let me know if you'd like to generate a fancy table of contents or add badges for Kaggle, Colab, etc.
