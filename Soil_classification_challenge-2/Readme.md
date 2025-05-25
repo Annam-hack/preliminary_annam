@@ -78,10 +78,10 @@ Metrics are stored in `docs/ml-metrics.json`:
 
 ```json
 {
-  "accuracy": 0.92,
-  "precision": 0.91,
-  "recall": 0.90,
-  "f1_score": 0.905
+    "accuracy": 0.9992615721310264,
+    "precision": 0.9927109176826554,
+    "recall": 0.9942716857610474,
+    "f1_score": 0.9902772354499123
 }
 ```
 
