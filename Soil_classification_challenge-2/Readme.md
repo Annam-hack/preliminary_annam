@@ -9,13 +9,17 @@ This project tackles the unique challenge of soil type classification when only 
 ## 📂 Directory Structure
 
 ```
-├── soil_classification.ipynb   # Unified training and evaluation notebook
 ├── data/
-│   └── soil_competition-2025/  # Soil image dataset
+│   └── download.py          # Script to download and unzip dataset from Kaggle
 ├── docs/
-│   └── ml-metrics.json         # Saved evaluation metrics
-├── requirements.txt            # Dependencies
-└── README.md                   # This file
+│   └── arch.png     # Diagram of the model architecture
+│   └── cards/
+│       └── ml-metrics.json  # Evaluation metrics
+├── notebooks/
+│   └── soil-classification-task2.ipynb              # Unified notebook for training and inference
+├── src/
+├── requirements.txt         # Dependencies
+└── README.md                # This file
 ```
 
 ---

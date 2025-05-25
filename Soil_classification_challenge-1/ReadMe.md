@@ -11,10 +11,12 @@ This project focuses on classifying soil types from images using a transfer lear
 ├── data/
 │   └── download.py          # Script to download and unzip dataset from Kaggle
 ├── docs/
-│   └── architecture.png     # Diagram of the model architecture
+│   └── arch.png     # Diagram of the model architecture
 │   └── cards/
 │       └── ml-metrics.json  # Evaluation metrics
-├── model.ipynb              # Unified notebook for training and inference
+├── notebooks/
+│   └── model.ipynb              # Unified notebook for training and inference
+├── src/
 ├── requirements.txt         # Dependencies
 └── README.md                # This file
 ```
