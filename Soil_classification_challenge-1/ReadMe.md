@@ -14,7 +14,6 @@ This project focuses on classifying soil types from images using a transfer lear
 │   └── architecture.png     # Diagram of the model architecture
 │   └── cards/
 │       └── ml-metrics.json  # Evaluation metrics
-│       └── project-card.ipynb
 ├── model.ipynb              # Unified notebook for training and inference
 ├── requirements.txt         # Dependencies
 └── README.md                # This file
